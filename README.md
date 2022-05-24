@@ -1,2 +1,2 @@
 # Dropdown-List
-This is a dropdown list.
+This is a Dropdown List. This project is made with HTML, CSS, Javascript & jQuery.
