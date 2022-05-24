@@ -4,13 +4,13 @@
     margin: o;
 }
 
-form {
+.popup-form {
     display: flex;
     justify-content: center;
 }
 
-div>select,
-div>input {
+.dvSelect>select,
+#divControl>input {
     /* width: 15rem; */
     margin: 10px;
     border: 1px solid black;
@@ -20,7 +20,7 @@ div>input {
     padding: 5px;
 }
 
-form>select>option {
+.popup-form>select>option {
     width: 15rem;
     font-size: 12px;
 }
